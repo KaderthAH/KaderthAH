@@ -1,3 +1,1 @@
-- Hi, I’m Kaderth.
-- I’m interested in developing and inventing.
-- I’m currently learning LUA, C++.
+🏳️‍🌈
